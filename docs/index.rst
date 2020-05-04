@@ -20,4 +20,4 @@ Indices and tables
 * :ref:`search`
 
 
-React.rst
+React
