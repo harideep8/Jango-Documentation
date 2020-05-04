@@ -9,7 +9,7 @@ Welcome to Web Design and Development - Apssdc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   React
 
 
 Indices and tables
@@ -20,4 +20,4 @@ Indices and tables
 * :ref:`search`
 
 
-React
+
