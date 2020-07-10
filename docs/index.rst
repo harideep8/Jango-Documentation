@@ -1,25 +1,28 @@
-.. Web Design and Development - Apssdc documentation master file, created by
-   sphinx-quickstart on Mon May  4 10:32:34 2020.
+.. SCMFDP documentation master file, created by
+   sphinx-quickstart on Fri May 22 12:00:17 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Web Design and Development - Apssdc's documentation!
-===============================================================
+Welcome to Django documentation!
+==================================
 
 .. toctree::
    :maxdepth: 2
    :numbered:
-
-   React
    
+   file5.md
+   file6.md
+   file7.md
+   file8.md
+   file9.md
+   file10.md
+   file11.md
+   file12.md
+   file13.md
+   file14.md
+   file15.md
+   file16.md
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
 

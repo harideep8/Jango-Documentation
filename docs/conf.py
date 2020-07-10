@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
-project = 'Web Design and Development - Apssdc'
+project = 'Web Development Django'
 copyright = '2020, APSSDC'
 author = 'APSSDC'
 
