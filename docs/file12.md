@@ -7,8 +7,9 @@ Python provides a mail sending interface using smtplib(Simple Mail Transfer Prot
 * Google Account Settings
     * Security
         * Turn on Less secure app access
+<img src="https://raw.githubusercontent.com/harideep8/Jango-Documentation/master/docs/secure.JPG">
         
-![Github Image](https://github.com/MVGopi/Email_Sending_Django/blob/master/secure.JPG)
+
 
 Note : After completion of email sending turn off less secure apps option
 
@@ -116,7 +117,8 @@ urlpatterns = [
 
 #### 7. Run the server and check in browser will get an form for entering details to send an email as shown below
 
-![Github Image](https://raw.githubusercontent.com/avinash516/Documentation-web-development/master/email_form.JPG)
+<img src="https://raw.githubusercontent.com/harideep8/Jango-Documentation/master/docs/email_form.JPG">
+
 
 
 #### 8. Enter information to send an email in the form and click on send, So that your email is sent successfully
