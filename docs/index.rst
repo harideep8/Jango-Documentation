@@ -18,8 +18,7 @@ Welcome to Django documentation!
    file10.md
    file11.md
    file14.md
-   file15.md
-   file16.md
+   
  
 
 
